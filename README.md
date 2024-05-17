@@ -48,7 +48,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 ## Agenda
 
 > [!WARNING]
-> This is very preliminary and more a tool to define scope & purpose of the working group itself. That being said, it should also provoke thought and ideally spark interest in being part of these discussions. [Open an issue ](https://github.com/cardano-scaling/wg-hydra/issues/new) or a PR and we'll get you covered & involved on this journey.
+> This is very preliminary and more a tool to define scope & purpose of the working group itself. That being said, it should also provoke thought and ideally spark interest in being part of these discussions. [Open an issue ](https://github.com/cardano-scaling/wg-hydra/issues/new/choose) or a PR and we'll get you covered & involved on this journey.
 
 List of work items to be discussed by the Hydra working group:
 
