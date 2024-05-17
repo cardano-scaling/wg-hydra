@@ -14,18 +14,18 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 > Why is this working group needed?
 
-- Scoping _fundable features_ and projects related to Hydra
-- Concrete, open governance of the [hydra](https://github.com/input-output-hk/hydra) project roadmap
-  - to be moved to [https://github.com/cardano-scaling/hydra](https://github.com/cardano-scaling/hydra)
-- Potential evolution into broader, scalable transaction processing focused work
+- Open discussion and governance of the [hydra](https://github.com/input-output-hk/hydra) project roadmap
+- Identify and scope _fundable features_ and projects related to Hydra into a roadmap to be ratified by the community (e.g. through intersect)
+- Break up silos and cross-pollinate projects across the broader domain of scaling Cardano transaction processing
 
 ### What
 
-> What concrete things are we producing?
+> What are we doing concretely?
 
-- Create and maintain a high-level backlog of _fundable features and projects/RFPs_
+- Prioritize and scope out [💬 features](https://github.com/input-output-hk/hydra/issues?q=is%3Aissue+is%3Aopen+label%3A%22%3Aspeech_balloon%3A+feature%22) from [💭 feature ideas](https://github.com/input-output-hk/hydra/issues?q=is%3Aissue+is%3Aopen+label%3A%22%3Athought_balloon%3A+idea%22) and [💡 idea discussions](https://github.com/input-output-hk/hydra/discussions/categories/ideas).
+- Create and maintain a high-level backlog of _fundable features and projects/RFPs_ (level of detail to be defined)
 - Coordinate ratification by the community through Intersect
-- Review and report delivery
+- Review and report on individual project deliveries
 
 ### How
 
@@ -34,6 +34,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 - Where and how are work items produced
 - Members and how membership is governed
 - Meetings and communication channels
+  - `#wg-hydra` on the Intersect discord
 
 ## Agenda
 
