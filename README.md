@@ -31,10 +31,19 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 > How are we producing results?
 
-- Where and how are work items produced
+- Where and how work items produced
+
 - Members and how membership is governed
-- Meetings and communication channels
-  - `#wg-hydra` on the Intersect discord
+
+- Collaboration channels
+  - [`#ask-hydra` on Discord](https://discord.com/invite/Qq5vNTg9PT)
+  - (TODO) `#wg-hydra` on the Intersect discord
+
+- Work group meetings
+  - TBD
+  
+> [!TIP]
+> If you read this far you might want to join us? Signal interest on above's collaboration channels by dropping a message [on Discord](https://discord.com/invite/Qq5vNTg9PT), [on Twitter](https://x.com/ch1bo_), or by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)!
 
 ## Agenda
 

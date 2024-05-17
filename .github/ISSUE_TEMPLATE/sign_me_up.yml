@@ -1,0 +1,35 @@
+name: I want to be a Hydra head
+description: Signal interest in becoming a member of the Hydra working group
+body:
+  - type: markdown
+    attributes:
+      value:
+      value: |
+        We're so happy that you want to be a part of our journey in making our [vision of scaling Cardano](https://cardano-scaling.org/#vision) a reality!
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: How may we call you?
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you?
+    validations:
+      required: true
+
+  - type: textarea
+    id: initial-thoughts
+    attributes:
+      label: Initial thoughts
+      description: |
+        Anything you want to share right away? 📚 [Charter](https://github.com/cardano-scaling/wg-hydra/blob/main/README.md#charter) 📋 [Agenda](https://github.com/cardano-scaling/wg-hydra/blob/main/README.md#agenda)
+      placeholder: |
+        Do you think an openly governed project (portfolio) can even work?
+        What do you think of the charter in its current form?
+        Does the list of agenda items / ideas for work items of the working group make sense? Anything you would like to see instead?
