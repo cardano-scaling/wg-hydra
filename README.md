@@ -33,7 +33,15 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 - Where and how work items produced
 
-- Members and how membership is governed
+- How membership is governed
+  - TBD
+
+- Members
+  - Sebastian Nagel (Chair)
+  - ... [Sign me up!](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)
+
+- How voting will be conducted
+  - TBD
 
 - Collaboration channels
   - [`#ask-hydra` on Discord](https://discord.com/invite/Qq5vNTg9PT)
