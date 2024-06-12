@@ -37,7 +37,9 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - TBD
 
 - Members
-  - Sebastian Nagel (Chair)
+  - [Sebastian Nagel](https://github.com/ch1bo)
+  - [George Flerovsky](https://github.com/GeorgeFlerovsky)
+  - [Reza Baram](https://github.com/rezabaram)
   - ... [Sign me up!](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)
 
 - How voting will be conducted
