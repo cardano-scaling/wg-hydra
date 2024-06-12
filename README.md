@@ -32,15 +32,14 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 > How are we producing results?
 
 - Where and how work items produced
-
-- How membership is governed
   - TBD
 
-- Members
-  - [Sebastian Nagel](https://github.com/ch1bo)
-  - [George Flerovsky](https://github.com/GeorgeFlerovsky)
-  - [Reza Baram](https://github.com/rezabaram)
-  - ... [Sign me up!](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)
+- Work group meetings
+  - TBD
+
+- How membership is governed (TBD)
+  - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
+  - You are a member as long as you join regularly the work group meetings
 
 - How voting will be conducted
   - TBD
@@ -49,8 +48,12 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - [`#ask-hydra` on Discord](https://discord.com/invite/Qq5vNTg9PT)
   - (TODO) `#wg-hydra` on the Intersect discord
 
-- Work group meetings
-  - TBD
+- Members (@wg-hydra github team)
+  - [Sebastian Nagel](https://github.com/ch1bo)
+  - [George Flerovsky](https://github.com/GeorgeFlerovsky)
+  - [Reza Baram](https://github.com/rezabaram)
+  - [Colin Hobbins](https://github.com/chobbins)
+  - [Arnaud Bailly](https://github.com/abailly)
   
 > [!TIP]
 > If you read this far you might want to join us? Signal interest on above's collaboration channels by dropping a message [on Discord](https://discord.com/invite/Qq5vNTg9PT), [on Twitter](https://x.com/ch1bo_), or by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)!
