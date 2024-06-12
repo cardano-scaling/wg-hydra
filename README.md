@@ -8,7 +8,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 ## Charter
 
 > [!IMPORTANT]
-> The charter itself is in draft status and the first work item of the working group will be to ratify it.
+> The charter itself is in draft status and one of the first work items of the working group will be to ratify it.
 
 ### Why
 
@@ -35,7 +35,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - TBD
 
 - Work group meetings
-  - TBD
+  - First meeting: [2024-06-19 13:30 UTC using Google Meet](https://calendar.app.google/fGoMD7e2Q6eLXQsdA)
+  - Cadence TBD
 
 - How membership is governed (TBD)
   - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
