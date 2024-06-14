@@ -55,6 +55,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - [Reza Baram](https://github.com/rezabaram)
   - [Colin Hobbins](https://github.com/chobbins)
   - [Arnaud Bailly](https://github.com/abailly)
+  - [Sasha Bogicevic](https://github.com/v0d1ch)
   
 > [!TIP]
 > If you read this far you might want to join us? Signal interest on above's collaboration channels by dropping a message [on Discord](https://discord.com/invite/Qq5vNTg9PT), [on Twitter](https://x.com/ch1bo_), or by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)!
