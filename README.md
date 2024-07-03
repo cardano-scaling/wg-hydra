@@ -32,30 +32,41 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 > How are we producing results?
 
 - Where and how work items produced
-  - TBD
+  - Meeting notes are stored in [meetings/](./meetings)
+  - The repository will hold any artifacts produced, unless more suitable places are available.
 
 - Work group meetings
-  - First meeting: [2024-06-19 13:30 UTC using Google Meet](https://calendar.app.google/fGoMD7e2Q6eLXQsdA)
-  - Cadence TBD
-
-- How membership is governed (TBD)
-  - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
-  - You are a member as long as you join regularly the work group meetings
-
-- How voting will be conducted
-  - TBD
+  - Bi-weekly using Google Meet
+  - Next meeting: [2024-07-17 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
 
 - Collaboration channels
   - [`#ask-hydra` on Discord](https://discord.com/invite/Qq5vNTg9PT)
   - (TODO) `#wg-hydra` on the Intersect discord
 
+- How membership is governed
+  - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
+  - You are a member as long as you join regularly the work group meetings
+  - New members will gain voting rights in the meeting following the one they joined
+  - After not attending three consecutive meetings, members are removed
+  - Member list is kept in this charter
+
 - Members (@wg-hydra github team)
-  - [Sebastian Nagel](https://github.com/ch1bo)
-  - [George Flerovsky](https://github.com/GeorgeFlerovsky)
-  - [Reza Baram](https://github.com/rezabaram)
-  - [Colin Hobbins](https://github.com/chobbins)
-  - [Arnaud Bailly](https://github.com/abailly)
-  - [Sasha Bogicevic](https://github.com/v0d1ch)
+  - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
+  - [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
+  - [Reza Baram](https://github.com/rezabaram) <!-- reza.baram@gmail.com -->
+  - [Arnaud Bailly](https://github.com/abailly) <!-- arnaud.bailly@iohk.io -->
+  - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
+  - [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
+  - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
+  - Philip Di Sarro <!-- philipdisarro@gmail.com -->
+  - Sorin Canter <!-- sorin.canter@gmail.com -->
+  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 1)_ <!-- colin.hobbins@obsidian.systems -->
+  - _[Ilia Rodionov](https://github.com/euonymos) (New)_ <!-- ilia@mlabs.city -->
+  - _Michael Yagi (New)_ <!-- myagi@ikigaitech.org -->
+  - _Sam Delaney (New)_ <!-- sdelaney@ikigaitech.org -->
+
+- How voting will be conducted
+  - TBD
   
 > [!TIP]
 > If you read this far you might want to join us? Signal interest on above's collaboration channels by dropping a message [on Discord](https://discord.com/invite/Qq5vNTg9PT), [on Twitter](https://x.com/ch1bo_), or by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)!
