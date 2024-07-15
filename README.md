@@ -40,8 +40,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - Next meeting: [2024-07-17 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
 
 - Collaboration channels
-  - [`#ask-hydra` on Discord](https://discord.com/invite/Qq5vNTg9PT)
-  - (TODO) `#wg-hydra` on the Intersect discord
+  - [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
+  - [`#ask-hydra` on IOG Discord](https://discord.com/invite/Qq5vNTg9PT)
 
 - How membership is governed
   - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
@@ -54,16 +54,18 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
   - [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
   - [Reza Baram](https://github.com/rezabaram) <!-- reza.baram@gmail.com -->
-  - [Arnaud Bailly](https://github.com/abailly) <!-- arnaud.bailly@iohk.io -->
   - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
-  - [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
   - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
   - Philip Di Sarro <!-- philipdisarro@gmail.com -->
-  - Sorin Canter <!-- sorin.canter@gmail.com -->
-  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 1)_ <!-- colin.hobbins@obsidian.systems -->
-  - _[Ilia Rodionov](https://github.com/euonymos) (New)_ <!-- ilia@mlabs.city -->
-  - _Michael Yagi (New)_ <!-- myagi@ikigaitech.org -->
-  - _Sam Delaney (New)_ <!-- sdelaney@ikigaitech.org -->
+  - [Pi Lanningham](https://github.com/Qantumplation) (missed 1)<!-- pi@sundae.fi -->
+  - [Arnaud Bailly](https://github.com/abailly) (missed 1) <!-- arnaud.bailly@iohk.io -->
+  - Sorin Canter (missed 1) <!-- sorin.canter@gmail.com -->
+  - _[Ilia Rodionov](https://github.com/euonymos) (New, missed 1)_ <!-- ilia@mlabs.city -->
+  - _Michael Yagi (New, missed 1)_ <!-- myagi@ikigaitech.org -->
+  - _Sam Delaney (New, missed 1)_ <!-- sdelaney@ikigaitech.org -->
+  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 2)_ <!-- colin.hobbins@obsidian.systems -->
+  - _Benjamin Hart (New)_ <!-- ben@mlabs.city -->
+  - _Franco Testagrossa (New)_ <!-- franco.testagrossa@iohk.io -->
 
 - How voting will be conducted
   - TBD
