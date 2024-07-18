@@ -50,22 +50,23 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - After not attending three consecutive meetings, members are removed
   - Member list is kept in this charter
 
-- Members (@wg-hydra github team)
+- Members (see also @wg-hydra github team, in no particular order)
   - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
   - [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
   - [Reza Baram](https://github.com/rezabaram) <!-- reza.baram@gmail.com -->
-  - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
+  - [Sasha Bogicevic](https://github.com/v0d1ch) (missed 1) <!-- sasha.bogicevic@iohk.io -->
   - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
-  - Philip Di Sarro <!-- philipdisarro@gmail.com -->
-  - [Pi Lanningham](https://github.com/Qantumplation) (missed 1)<!-- pi@sundae.fi -->
-  - [Arnaud Bailly](https://github.com/abailly) (missed 1) <!-- arnaud.bailly@iohk.io -->
+  - [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
+  - [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
+  - [Arnaud Bailly](https://github.com/abailly) (missed 2) <!-- arnaud.bailly@iohk.io -->
   - Sorin Canter (missed 1) <!-- sorin.canter@gmail.com -->
-  - _[Ilia Rodionov](https://github.com/euonymos) (New, missed 1)_ <!-- ilia@mlabs.city -->
-  - _Michael Yagi (New, missed 1)_ <!-- myagi@ikigaitech.org -->
-  - _Sam Delaney (New, missed 1)_ <!-- sdelaney@ikigaitech.org -->
-  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 2)_ <!-- colin.hobbins@obsidian.systems -->
-  - _Benjamin Hart (New)_ <!-- ben@mlabs.city -->
-  - _Franco Testagrossa (New)_ <!-- franco.testagrossa@iohk.io -->
+  - [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
+  - _Michael Yagi (New, missed 2)_ <!-- myagi@ikigaitech.org -->
+  - _Sam Delaney (New, missed 2)_ <!-- sdelaney@ikigaitech.org -->
+  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 3)_ <!-- colin.hobbins@obsidian.systems -->
+  - Benjamin Hart <!-- ben@mlabs.city -->
+  - Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
+  - _[Noon van der Silk](https://github.com/noonio) (New)_ <!-- noon.vandersilk@iohk.io -->
 
 - How voting will be conducted
   - TBD
