@@ -37,7 +37,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 - Work group meetings
   - Bi-weekly using Google Meet
-  - Next meeting: [2024-07-17 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+  - Next meeting: [2024-07-31 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
 
 - Collaboration channels
   - [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
@@ -67,6 +67,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
   - Benjamin Hart <!-- ben@mlabs.city -->
   - Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
   - _[Noon van der Silk](https://github.com/noonio) (New)_ <!-- noon.vandersilk@iohk.io -->
+  - _[Trym Bruset](https://github.com/Trymyrt) (New)_ <!-- trymyrt@gmail.com -->
+  - _[Caiña Costa](https://github.com/cfcosta) (New)_ <!-- me@cfcosta.com -->
 
 - How voting will be conducted
   - TBD
@@ -82,8 +84,9 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 List of work items to be discussed by the Hydra working group:
 
   - [ ] Charter of the working group
-  - [ ] What to release as Hydra Head version 1.0.0?
-  - [ ] Whether and scope of audit Head V1 (RFP)?
+  - [ ] What to release as Hydra Head V1?
+  - [ ] Whether and scope of audit Head V1? RFP?
+  - [ ] How to discover off-chain funds and standardize access to them? CIP?
   - [ ] What features / projects to fund next?
     - Hydra Tail as collateralized optimistic rollup or as zk rollup
     - Payment focused projects (revisiting hydra-pay, or from Catalyst: subbit, Cardano Lightning, μgraph, Cosmex, ...)
