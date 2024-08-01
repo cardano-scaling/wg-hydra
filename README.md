@@ -52,23 +52,22 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 - Members (see also @wg-hydra github team, in no particular order)
   - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
-  - [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
-  - [Reza Baram](https://github.com/rezabaram) <!-- reza.baram@gmail.com -->
-  - [Sasha Bogicevic](https://github.com/v0d1ch) (missed 1) <!-- sasha.bogicevic@iohk.io -->
+  - [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 1) <!-- george.flerovsky@gmail.com -->
+  - [Reza Baram](https://github.com/rezabaram) (missed 1) <!-- reza.baram@gmail.com -->
+  - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
   - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
   - [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
-  - [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
-  - [Arnaud Bailly](https://github.com/abailly) (missed 2) <!-- arnaud.bailly@iohk.io -->
-  - Sorin Canter (missed 1) <!-- sorin.canter@gmail.com -->
+  - [Pi Lanningham](https://github.com/Qantumplation) (missed 1) <!-- pi@sundae.fi -->
+  - [Arnaud Bailly](https://github.com/abailly) (missed 3) <!-- arnaud.bailly@iohk.io -->
+  - Sorin Canter (missed 2) <!-- sorin.canter@gmail.com -->
   - [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
-  - _Michael Yagi (New, missed 2)_ <!-- myagi@ikigaitech.org -->
-  - _Sam Delaney (New, missed 2)_ <!-- sdelaney@ikigaitech.org -->
-  - _[Colin Hobbins](https://github.com/chobbins) (New, missed 3)_ <!-- colin.hobbins@obsidian.systems -->
+  - _Michael Yagi (New, missed 3)_ <!-- myagi@ikigaitech.org -->
+  - _Sam Delaney (New, missed 3)_ <!-- sdelaney@ikigaitech.org -->
   - Benjamin Hart <!-- ben@mlabs.city -->
-  - Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
-  - _[Noon van der Silk](https://github.com/noonio) (New)_ <!-- noon.vandersilk@iohk.io -->
-  - _[Trym Bruset](https://github.com/Trymyrt) (New)_ <!-- trymyrt@gmail.com -->
-  - _[Caiña Costa](https://github.com/cfcosta) (New)_ <!-- me@cfcosta.com -->
+  - Franco Testagrossa (missed 1) <!-- franco.testagrossa@iohk.io -->
+  - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
+  - [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
+  - [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
 
 - How voting will be conducted
   - TBD
