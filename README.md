@@ -37,7 +37,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 - Work group meetings
   - Bi-weekly using Google Meet
-  - Next meeting: [2024-07-31 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+  - Scheduled meetings [calendar on lu.ma](https://lu.ma/calendar/manage/cal-cYmmHpskTm27yiI)
 
 - Collaboration channels
   - [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
