@@ -37,7 +37,7 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 #### Work group meetings
 - Bi-weekly using Google Meet
-- Next meeting: [2024-08-21 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- Next meeting: [2024-09-04 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
 - See also [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
@@ -67,6 +67,7 @@ See also @wg-hydra github team, in no particular order:
 - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
 - [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
 - [Caiña Costa](https://github.com/cfcosta) (missed 1) <!-- me@cfcosta.com -->
+- [Sam Leathers](https://github.com/disassembler) <!-- samuel.leathers@iohk.io -->
 
 #### How voting will be conducted
 - TBD
