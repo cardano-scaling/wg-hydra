@@ -31,47 +31,48 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 > How are we producing results?
 
-- Where and how work items produced
-  - Meeting notes are stored in [meetings/](./meetings)
-  - The repository will hold any artifacts produced, unless more suitable places are available.
+#### Where and how work items produced
+- Meeting notes are stored in [meetings/](./meetings)
+- The repository will hold any artifacts produced, unless more suitable places are available.
 
-- Work group meetings
-  - Bi-weekly using Google Meet
-  - Next meeting: [2024-08-21 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
-  - See also [lu.ma calendar](https://lu.ma/cardano-scaling)
+#### Work group meetings
+- Bi-weekly using Google Meet
+- Next meeting: [2024-08-21 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- See also [lu.ma calendar](https://lu.ma/cardano-scaling)
 
-- Collaboration channels
-  - [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
-  - [`#ask-hydra` on IOG Discord](https://discord.com/invite/Qq5vNTg9PT)
+#### Collaboration channels
+- [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
+- [`#ask-hydra` on IOG Discord](https://discord.com/invite/Qq5vNTg9PT)
 
-- How membership is governed
-  - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
-  - You are a member as long as you join regularly the work group meetings
-  - New members will gain voting rights in the meeting following the one they joined
-  - After not attending three consecutive meetings, members are removed
-  - Member list is kept in this charter
+#### How membership is governed
+- Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
+- You are a member as long as you join regularly the work group meetings
+- New members will gain voting rights in the meeting following the one they joined
+- After not attending three consecutive meetings, members are removed
+- Member list is kept in this charter
 
-- Members (see also @wg-hydra github team, in no particular order)
-  - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
-  - [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 1) <!-- george.flerovsky@gmail.com -->
-  - [Reza Baram](https://github.com/rezabaram) (missed 1) <!-- reza.baram@gmail.com -->
-  - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
-  - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
-  - [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
-  - [Pi Lanningham](https://github.com/Qantumplation) (missed 1) <!-- pi@sundae.fi -->
-  - [Arnaud Bailly](https://github.com/abailly) (missed 3) <!-- arnaud.bailly@iohk.io -->
-  - Sorin Canter (missed 2) <!-- sorin.canter@gmail.com -->
-  - [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
-  - _Michael Yagi (New, missed 3)_ <!-- myagi@ikigaitech.org -->
-  - _Sam Delaney (New, missed 3)_ <!-- sdelaney@ikigaitech.org -->
-  - Benjamin Hart <!-- ben@mlabs.city -->
-  - Franco Testagrossa (missed 1) <!-- franco.testagrossa@iohk.io -->
-  - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
-  - [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
-  - [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
+#### Members
+See also @wg-hydra github team, in no particular order:
+- [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
+- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 1) <!-- george.flerovsky@gmail.com -->
+- [Reza Baram](https://github.com/rezabaram) (missed 1) <!-- reza.baram@gmail.com -->
+- [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
+- Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
+- [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
+- [Pi Lanningham](https://github.com/Qantumplation) (missed 1) <!-- pi@sundae.fi -->
+- [Arnaud Bailly](https://github.com/abailly) (missed 3) <!-- arnaud.bailly@iohk.io -->
+- Sorin Canter (missed 2) <!-- sorin.canter@gmail.com -->
+- [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
+- _Michael Yagi (New, missed 3)_ <!-- myagi@ikigaitech.org -->
+- _Sam Delaney (New, missed 3)_ <!-- sdelaney@ikigaitech.org -->
+- Benjamin Hart <!-- ben@mlabs.city -->
+- Franco Testagrossa (missed 1) <!-- franco.testagrossa@iohk.io -->
+- [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
+- [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
+- [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
 
-- How voting will be conducted
-  - TBD
+#### How voting will be conducted
+- TBD
   
 > [!TIP]
 > If you read this far you might want to join us? Signal interest on above's collaboration channels by dropping a message [on Discord](https://discord.com/invite/Qq5vNTg9PT), [on Twitter](https://x.com/ch1bo_), or by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml)!
