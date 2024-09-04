@@ -37,7 +37,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 #### Work group meetings
 - Bi-weekly using Google Meet
-- Next meeting: [2024-09-04 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- Next meeting: [2024-09-18 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- [Agenda](./meetings/2024-09-18.md)
 - See also [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
@@ -55,19 +56,20 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 See also @wg-hydra github team, in no particular order:
 - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
 - [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 1) <!-- george.flerovsky@gmail.com -->
-- [Reza Baram](https://github.com/rezabaram) (missed 2) <!-- reza.baram@gmail.com -->
-- [Sasha Bogicevic](https://github.com/v0d1ch) (missed 1) <!-- sasha.bogicevic@iohk.io -->
+- [Reza Baram](https://github.com/rezabaram) (missed 3) <!-- reza.baram@gmail.com -->
+- [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
 - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
-- [Philip Di Sarro](https://github.com/Colll78) (missed 1) <!-- philipdisarro@gmail.com -->
+- [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
 - [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
-- Sorin Canter (missed 3) <!-- sorin.canter@gmail.com -->
-- [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
-- Benjamin Hart (missed 1) <!-- ben@mlabs.city -->
+- [Ilia Rodionov](https://github.com/euonymos) (missed 1) <!-- ilia@mlabs.city -->
+- Benjamin Hart (missed 2) <!-- ben@mlabs.city -->
 - Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
 - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
 - [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
-- [Caiña Costa](https://github.com/cfcosta) (missed 1) <!-- me@cfcosta.com -->
-- [Sam Leathers](https://github.com/disassembler) <!-- samuel.leathers@iohk.io -->
+- [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
+- [Sam Leathers](https://github.com/disassembler) (missed 1) <!-- samuel.leathers@iohk.io -->
+- Lucas Pedro <!-- lucas@45b.io -->
+- Sandip Pandey <!-- sandip@dquadrant.com -->
 
 #### How voting will be conducted
 - TBD
