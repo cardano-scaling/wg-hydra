@@ -70,6 +70,7 @@ See also @wg-hydra github team, in no particular order:
 - [Sam Leathers](https://github.com/disassembler) (missed 1) <!-- samuel.leathers@iohk.io -->
 - Lucas Pedro <!-- lucas@45b.io -->
 - Sandip Pandey <!-- sandip@dquadrant.com -->
+- [Perry Wasserbauer](https://github.com/Pdest08) <!-- perry.wasserbauer@gmail.com -->
 
 #### How voting will be conducted
 - TBD
