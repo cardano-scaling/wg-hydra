@@ -37,8 +37,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 
 #### Work group meetings
 - Bi-weekly using Google Meet
-- Next meeting: [2024-09-18 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
-- [Agenda](./meetings/2024-09-18.md)
+- Next meeting: [2024-10-02 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- [Agenda TBD](./meetings/2024-10-02.md)
 - See also [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
@@ -55,21 +55,20 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 #### Members
 See also @wg-hydra github team, in no particular order:
 - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
-- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 1) <!-- george.flerovsky@gmail.com -->
-- [Reza Baram](https://github.com/rezabaram) (missed 3) <!-- reza.baram@gmail.com -->
-- [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
+- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 2) <!-- george.flerovsky@gmail.com -->
+- [Sasha Bogicevic](https://github.com/v0d1ch) (missed 1) <!-- sasha.bogicevic@iohk.io -->
 - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
-- [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
-- [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
-- [Ilia Rodionov](https://github.com/euonymos) (missed 1) <!-- ilia@mlabs.city -->
-- Benjamin Hart (missed 2) <!-- ben@mlabs.city -->
-- Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
+- [Philip Di Sarro](https://github.com/Colll78) (missed 1) <!-- philipdisarro@gmail.com -->
+- [Pi Lanningham](https://github.com/Qantumplation) (missed 1) <!-- pi@sundae.fi -->
+- [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
+- Benjamin Hart (missed 3) <!-- ben@mlabs.city -->
+- Franco Testagrossa (missed 1) <!-- franco.testagrossa@iohk.io -->
 - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
-- [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
+- [Trym Bruset](https://github.com/Trymyrt) (missed 1) <!-- trymyrt@gmail.com -->
 - [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
-- [Sam Leathers](https://github.com/disassembler) (missed 1) <!-- samuel.leathers@iohk.io -->
-- Lucas Pedro <!-- lucas@45b.io -->
-- Sandip Pandey <!-- sandip@dquadrant.com -->
+- [Sam Leathers](https://github.com/disassembler) (missed 2) <!-- samuel.leathers@iohk.io -->
+- Lucas Pedro (missed 1) <!-- lucas@45b.io -->
+- Sandip Pandey <!-- sandip@sireto.com -->
 - [Perry Wasserbauer](https://github.com/Pdest08) <!-- perry.wasserbauer@gmail.com -->
 
 #### How voting will be conducted
@@ -83,12 +82,13 @@ See also @wg-hydra github team, in no particular order:
 > [!WARNING]
 > This is very preliminary and more a tool to define scope & purpose of the working group itself. That being said, it should also provoke thought and ideally spark interest in being part of these discussions. [Open an issue ](https://github.com/cardano-scaling/wg-hydra/issues/new/choose) or a PR and we'll get you covered & involved on this journey.
 
-List of work items to be discussed by the Hydra working group:
+List of current and past topics to be discussed by the Hydra working group:
 
-  - [ ] Charter of the working group
-  - [ ] What to release as Hydra Head V1?
-  - [ ] Whether and scope of audit Head V1? RFP?
+  - [x] Charter of the working group
+  - [x] What to release as Hydra Head V1?
+  - [x] Whether and scope of audit Head V1? RFP?
   - [ ] How to discover off-chain funds and standardize access to them? CIP?
+  - [ ] Ways to achieve interoperability across L2 ledgers?
   - [ ] What features / projects to fund next?
     - Hydra Tail as collateralized optimistic rollup or as zk rollup
     - Payment focused projects (revisiting hydra-pay, or from Catalyst: subbit, Cardano Lightning, μgraph, Cosmex, ...)
