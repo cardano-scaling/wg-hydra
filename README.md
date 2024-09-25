@@ -42,8 +42,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 - See also [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
-- [`#hydra-working-group` on Intersect Discord](https://discord.gg/u6XPm63KdV)
-- [`#ask-hydra` on IOG Discord](https://discord.com/invite/Qq5vNTg9PT)
+- [`#wg-hydra`](https://discord.com/channels/1136727663583698984/1260242964513558548) on Intersect Discord [Invite link](https://discord.gg/cgesQH7xXC)
+- [`#ask-hydra`](https://discord.com/channels/826816523368005654/890903732462710836) on IOG Discord [Invite link](https://discord.com/invite/Qq5vNTg9PT)
 
 #### How membership is governed
 - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-hydra/issues/new?template=sign_me_up.yml) and/or join a work group meeting
