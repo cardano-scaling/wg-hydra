@@ -55,21 +55,21 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 #### Members
 See also @wg-hydra github team, in no particular order:
 - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
-- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 2) <!-- george.flerovsky@gmail.com -->
-- [Sasha Bogicevic](https://github.com/v0d1ch) (missed 1) <!-- sasha.bogicevic@iohk.io -->
+- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 3) <!-- george.flerovsky@gmail.com -->
+- [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
 - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
-- [Philip Di Sarro](https://github.com/Colll78) (missed 1) <!-- philipdisarro@gmail.com -->
-- [Pi Lanningham](https://github.com/Qantumplation) (missed 1) <!-- pi@sundae.fi -->
+- [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
+- [Pi Lanningham](https://github.com/Qantumplation) (missed 2) <!-- pi@sundae.fi -->
 - [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
-- Benjamin Hart (missed 3) <!-- ben@mlabs.city -->
-- Franco Testagrossa (missed 1) <!-- franco.testagrossa@iohk.io -->
+- Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
 - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
-- [Trym Bruset](https://github.com/Trymyrt) (missed 1) <!-- trymyrt@gmail.com -->
-- [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
-- [Sam Leathers](https://github.com/disassembler) (missed 2) <!-- samuel.leathers@iohk.io -->
-- Lucas Pedro (missed 1) <!-- lucas@45b.io -->
+- [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
+- [Caiña Costa](https://github.com/cfcosta) (missed 1) <!-- me@cfcosta.com -->
+- [Sam Leathers](https://github.com/disassembler) (missed 3) <!-- samuel.leathers@iohk.io -->
+- Lucas Pedro <!-- lucas@45b.io -->
 - Sandip Pandey <!-- sandip@sireto.com -->
 - [Perry Wasserbauer](https://github.com/Pdest08) <!-- perry.wasserbauer@gmail.com -->
+- Aaron Boyle <!-- aaron.boyle@intersectmbo.org -->
 
 #### How voting will be conducted
 - TBD
