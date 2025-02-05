@@ -1,0 +1,27 @@
+Recording: None
+
+Agenda
+
+Team Roadmap Update
+- Incremental commits are nearly complete
+- Partial Fanout (BLS Accumulator?) work is on-going
+
+Hydra Project Updates
+
+- Blaze Labs
+  - Micropayment feature proposal in catalyst 13
+  - With increase in ADA price, going to expand features
+  - Asked for advice on architecture
+- L2 Interoperability 
+  - Proposal seems to have been approved pending final count
+- Hydra Doom
+  - In the pre-qualifiers, there was 15000 TPS
+  - They decided to load test and hit 1,000,000 TPS with 14,000 Hydra heads
+  - Pre-qualifier was in offline mode
+  - The current PvP is all on-chain
+  - Some valuable outcomes:
+    - New tooling built
+    - Lots of bug fixes
+    - Improved dev UX
+    - Development teams gaining Hydra experience
+    - Wallet standard for Hydra Heads including CIP-68 tokens (Adam Dean)
