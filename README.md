@@ -36,10 +36,8 @@ Welcome to the documentation repository of the Hydra working group. It holds def
 - The repository will hold any artifacts produced, unless more suitable places are available.
 
 #### Work group meetings
-- Bi-weekly using Google Meet
-- Next meeting: [2024-10-02 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
-- [Agenda TBD](./meetings/2024-10-02.md)
-- See also [lu.ma calendar](https://lu.ma/cardano-scaling)
+- Bi-weekly using Google Meet, [Wednesday 14:00 UTC](https://meet.google.com/vnz-chhb-qxz)
+- Subscribe and join using [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
 - [`#wg-hydra`](https://discord.com/channels/1136727663583698984/1260242964513558548) on Intersect Discord [Invite link](https://discord.gg/cgesQH7xXC)
